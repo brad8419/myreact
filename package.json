@@ -7,7 +7,7 @@
     "react-dom": "^16.5.1",
     "react-scripts": "1.1.5"
   },
-  "homepage":"https://brad8419.github.io/myreact"
+  "homepage":"https://brad8419.github.io/myreact",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
